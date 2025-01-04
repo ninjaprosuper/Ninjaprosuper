@@ -11,6 +11,5 @@
    Youtube = "[youtube.com](https://www.youtube.com/@ErrorHater-k1g)"
 ]
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: My brother (Jean Amaro) loves to irritate me. Yeah...
-
+- ⚡ Fun facts: My brother (Jean Amaro) loves to irritate me. Yeah... And my profile icon was made for a 3D engine that i am making, called Meca Engine. Or just ME.
 </body>
